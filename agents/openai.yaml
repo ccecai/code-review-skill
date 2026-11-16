@@ -1,0 +1,7 @@
+interface:
+  display_name: "Code Review"
+  short_description: "Review code changes and report findings in Chinese"
+  default_prompt: "Use $code-review to review the current changes and report findings in plain Chinese."
+
+policy:
+  allow_implicit_invocation: true
